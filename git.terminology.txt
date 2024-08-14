@@ -1,0 +1,3 @@
+git log - shows the most recent commits
+git push origin main - pushes any recent, locally made commits to the remote repo ('origin') on the main branch
+git pull origin main - brings any recent changes to the remote repo's main branch into your local repo
